@@ -1,4 +1,4 @@
-class rope {
+class rope extends BaseClass {
     constructor(body1,body2, offsetX,offsetY)
     {
         this.offsetX=offsetX
